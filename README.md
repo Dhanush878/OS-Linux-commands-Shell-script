@@ -30,7 +30,8 @@ sumit chakrobarty
 ^d
 ```
 ## OUTPUT
-![alt text](1.png)
+![image](https://github.com/user-attachments/assets/08bff2f0-44ca-44b3-a4c5-0ed9f30d7435)
+
 
 cat > file2
 ```
@@ -42,30 +43,36 @@ s.n. dasgupta
 ^d
 ```
 ## OUTPUT
-![alt text](2.png)
+![image](https://github.com/user-attachments/assets/a7c262b3-3d44-41ed-aaa1-85ccfd5f9af0)
+
 
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![alt text](3.png)
+![image](https://github.com/user-attachments/assets/416973e4-a517-4ba0-a0af-a57a204c7120)
+
 
 cat < file2
 ## OUTPUT
-![alt text](4.png)
+![image](https://github.com/user-attachments/assets/16a6cccd-b0dc-4736-9adf-4863dfa910d5)
+
 
 # Comparing Files
 cmp file1 file2
 
 ## OUTPUT
- ![alt text](5.png)
+![image](https://github.com/user-attachments/assets/d89e3989-97cf-4940-9b14-c411499e36e5)
+
 
 comm file1 file2
  ## OUTPUT
-![alt text](6.png)
+![image](https://github.com/user-attachments/assets/cb3ee190-a901-46a3-9858-18be3b7456c5)
+
  
 diff file1 file2
 ## OUTPUT
-![alt text](7.png)
+![image](https://github.com/user-attachments/assets/9c4369dc-264f-4409-bab1-3d6838d30128)
+
 
 #Filters
 
